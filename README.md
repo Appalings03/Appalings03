@@ -1,4 +1,4 @@
-# Hi, I'm Martin Binamé 👋
+# Hi, I'm Martin Binamé
 
 🎓 Master's student in Industrial Engineering Sciences — Aerotechnical Engineering
 ✈️ Looking for an internship in aeronautical construction / quality control
