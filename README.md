@@ -48,6 +48,8 @@ I'm rigorous and methodical, comfortable with CAD tools (AutoCAD, CATIA, SolidWo
 
 - [CS50 – Introduction to Computer Science](ADD_LINK_HERE)
 - [European First Aid Certificate (BEPS)](ADD_LINK_HERE) — Belgian Red Cross, May 2019
+- [Convolutional Neural Networks for Image Classification](https://academy.zenva.com/certificate/837ef2955cfe)
+- 
 
 ---
 
