@@ -49,7 +49,13 @@ I'm rigorous and methodical, comfortable with CAD tools (AutoCAD, CATIA, SolidWo
 - [CS50 – Introduction to Computer Science](ADD_LINK_HERE)
 - [European First Aid Certificate (BEPS)](ADD_LINK_HERE) — Belgian Red Cross, May 2019
 - [Convolutional Neural Networks for Image Classification](https://academy.zenva.com/certificate/837ef2955cfe)
-- 
+- [Machine Learning with Python and Tensorflow]( https://academy.zenva.com/certificate/95df5d6e6deb)
+- [Intro to Object-Oriented Programming with Python](https://academy.zenva.com/certificate/1d82f2d2297d)
+- [Data Manipulation with Pandas](https://academy.zenva.com/certificate/4bfd7e584cd9)
+- [Intermediate Python - Learn Pygame by Making a Game](https://academy.zenva.com/certificate/49e78a3b1705)
+- [JavaScript 101 - First Programming Steps](https://academy.zenva.com/certificate/fe2c4b0b64bb)
+- [Python GUIs with Tkinter for Beginners](https://academy.zenva.com/certificate/6420fb64d622)
+- [Python Projects - Object-Oriented Game](https://academy.zenva.com/certificate/d942eb181270)
 
 ---
 
